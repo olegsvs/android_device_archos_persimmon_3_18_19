@@ -1,0 +1,1 @@
+# android_device_archos_persimmon_3_18_19
